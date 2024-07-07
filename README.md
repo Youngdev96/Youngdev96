@@ -4,7 +4,6 @@
   
  <!--BODY-->  
   ## 🌼 THIS IS ME 🌼
-  I'm studying to be a front-end developer since 2023 May.<br/>
   Please look forward to how I grow up!😉
   <br/><br/>
   
